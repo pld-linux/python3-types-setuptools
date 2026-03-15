@@ -24,7 +24,7 @@ to check code that uses setuptools.
 
 %description -l pl.UTF-8
 Ten pakiet zawiera zaślepki typów zgodne z PEP 561 dla pakietu
-setuptools. Mogą one być używany przez narzędzia sprawdzające typy,
+setuptools. Mogą one być używane przez narzędzia sprawdzające typy,
 takie jak mypy, pyright, pytype, Pyre itp. do sprawdzania kodu
 wykorzystującego setuptools.
 
